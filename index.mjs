@@ -94,7 +94,7 @@ async function uploadFile() {
   }
 }
 
-//------------------------------------------------
+//-----------------------------------------------
 
 //createFolder(token, parentFolder, folderName)
 //deleteContent(token, contentsId)
